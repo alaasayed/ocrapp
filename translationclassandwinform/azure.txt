@@ -1,0 +1,8 @@
+
+
+
+
+
+client id->gpproject1
+name->gp1
+client secret_>/MiaaTuasuq7if2bxG1VLIaxZiAuyRvIvlszTv1FgwA=
