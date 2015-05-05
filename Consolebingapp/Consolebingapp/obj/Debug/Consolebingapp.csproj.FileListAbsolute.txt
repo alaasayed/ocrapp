@@ -1,0 +1,6 @@
+E:\cmp42\gp\trans12\Consolebingapp\Consolebingapp\bin\Debug\Consolebingapp.exe.config
+E:\cmp42\gp\trans12\Consolebingapp\Consolebingapp\bin\Debug\Consolebingapp.exe
+E:\cmp42\gp\trans12\Consolebingapp\Consolebingapp\bin\Debug\Consolebingapp.pdb
+E:\cmp42\gp\trans12\Consolebingapp\Consolebingapp\obj\Debug\Consolebingapp.exe
+E:\cmp42\gp\trans12\Consolebingapp\Consolebingapp\obj\Debug\Consolebingapp.pdb
+E:\cmp42\gp\trans12\Consolebingapp\Consolebingapp\obj\Debug\Consolebingapp.csprojResolveAssemblyReference.cache
